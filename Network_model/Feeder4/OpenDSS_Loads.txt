@@ -1,0 +1,12 @@
+New Load.vet_college_tx1_l Phases=3 Bus1=vet_college_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=vet_college_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.vet_college_tx2_l Phases=3 Bus1=vet_college_sub_tx2_lv kV=0.38 Pf=-0.95 Model=1 Daily=vet_college_tx2_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.woodview_tx1_l Phases=3 Bus1=woodview_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=woodview_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.charles_institute_tx1_l Phases=3 Bus1=charles_institute_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=charles_institute_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.health_sciences_tx1_l Phases=3 Bus1=health_sciences_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=health_sciences_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.health_sciences_tx2_l Phases=3 Bus1=health_sciences_sub_tx2_lv kV=0.38 Pf=-0.95 Model=1 Daily=health_sciences_tx2_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.science_east_tx1_l Phases=3 Bus1=science_east_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=science_east_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.science_hub_tx1_l Phases=3 Bus1=science_hub_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=science_hub_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.lodge_tx1_l Phases=3 Bus1=lodge_unit_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=lodge_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.thornfield_tx1_l Phases=3 Bus1=thornfield_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=thornfield_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.richview_tx1_l Phases=3 Bus1=richview_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=richview_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.civil_engineering_tx1_l Phases=3 Bus1=civil_engineering_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=civil_engineering_tx1_ls Vminpu=0.8 Vmaxpu=1.2

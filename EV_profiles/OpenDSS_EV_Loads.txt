@@ -1,0 +1,44 @@
+New LoadShape.library_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=library_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.library_sub_tx1_lv_ev_l Phases=3 Bus1=library_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=library_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.library_sub_tx2_lv_ls_ev Npts=96 mInterval=15 csvfile=library_sub_tx2_lv_ls_ev.txt useactual=yes
+New Load.library_sub_tx2_lv_ev_l Phases=3 Bus1=library_sub_tx2_lv kV=0.38 Pf=1 Model=1 Daily=library_sub_tx2_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.sllsc_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=sllsc_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.sllsc_sub_tx1_lv_ev_l Phases=3 Bus1=sllsc_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=sllsc_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.sports_centre_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=sports_centre_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.sports_centre_sub_tx1_lv_ev_l Phases=3 Bus1=sports_centre_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=sports_centre_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.boiler_house_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=boiler_house_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.boiler_house_sub_tx1_lv_ev_l Phases=3 Bus1=boiler_house_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=boiler_house_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.rosemount_unit_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=rosemount_unit_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.rosemount_unit_sub_tx1_lv_ev_l Phases=3 Bus1=rosemount_unit_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=rosemount_unit_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.creche_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=creche_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.creche_sub_tx1_lv_ev_l Phases=3 Bus1=creche_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=creche_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.student_centre_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=student_centre_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.student_centre_sub_tx1_lv_ev_l Phases=3 Bus1=student_centre_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=student_centre_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.campus_east_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=campus_east_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.campus_east_sub_tx1_lv_ev_l Phases=3 Bus1=campus_east_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=campus_east_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.data_centre_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=data_centre_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.data_centre_sub_tx1_lv_ev_l Phases=3 Bus1=data_centre_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=data_centre_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.engineering_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=engineering_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.engineering_sub_tx1_lv_ev_l Phases=3 Bus1=engineering_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=engineering_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.ardmore_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=ardmore_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.ardmore_sub_tx1_lv_ev_l Phases=3 Bus1=ardmore_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=ardmore_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.quinn_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=quinn_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.quinn_sub_tx1_lv_ev_l Phases=3 Bus1=quinn_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=quinn_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.vet_college_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=vet_college_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.vet_college_sub_tx1_lv_ev_l Phases=3 Bus1=vet_college_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=vet_college_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.vet_college_sub_tx2_lv_ls_ev Npts=96 mInterval=15 csvfile=vet_college_sub_tx2_lv_ls_ev.txt useactual=yes
+New Load.vet_college_sub_tx2_lv_ev_l Phases=3 Bus1=vet_college_sub_tx2_lv kV=0.38 Pf=1 Model=1 Daily=vet_college_sub_tx2_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.woodview_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=woodview_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.woodview_sub_tx1_lv_ev_l Phases=3 Bus1=woodview_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=woodview_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.charles_institute_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=charles_institute_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.charles_institute_sub_tx1_lv_ev_l Phases=3 Bus1=charles_institute_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=charles_institute_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.health_sciences_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=health_sciences_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.health_sciences_sub_tx1_lv_ev_l Phases=3 Bus1=health_sciences_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=health_sciences_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.health_sciences_sub_tx2_lv_ls_ev Npts=96 mInterval=15 csvfile=health_sciences_sub_tx2_lv_ls_ev.txt useactual=yes
+New Load.health_sciences_sub_tx2_lv_ev_l Phases=3 Bus1=health_sciences_sub_tx2_lv kV=0.38 Pf=1 Model=1 Daily=health_sciences_sub_tx2_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.lodge_unit_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=lodge_unit_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.lodge_unit_sub_tx1_lv_ev_l Phases=3 Bus1=lodge_unit_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=lodge_unit_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.richview_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=richview_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.richview_sub_tx1_lv_ev_l Phases=3 Bus1=richview_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=richview_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2
+New LoadShape.civil_engineering_sub_tx1_lv_ls_ev Npts=96 mInterval=15 csvfile=civil_engineering_sub_tx1_lv_ls_ev.txt useactual=yes
+New Load.civil_engineering_sub_tx1_lv_ev_l Phases=3 Bus1=civil_engineering_sub_tx1_lv kV=0.38 Pf=1 Model=1 Daily=civil_engineering_sub_tx1_lv_ls_ev Vminpu=0.8 Vmaxpu=1.2

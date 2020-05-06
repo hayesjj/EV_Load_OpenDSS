@@ -1,0 +1,12 @@
+New Monitor.library_tx1_lv Transformer.library_tx1 Terminal=2 Mode=32
+New Monitor.library_tx2_lv Transformer.library_tx2 Terminal=2 Mode=32
+New Monitor.agri_science_tx1_lv Transformer.agri_science_tx1 Terminal=2 Mode=32
+New Monitor.sllsc_tx1_lv Transformer.sllsc_tx1 Terminal=2 Mode=32
+New Monitor.sports_centre_tx1_lv Transformer.sports_centre_tx1 Terminal=2 Mode=32
+New Monitor.boiler_house_txchp_lv Transformer.boiler_house_txchp Terminal=2 Mode=32
+New Monitor.boiler_house_tx1_lv Transformer.boiler_house_tx1 Terminal=2 Mode=32
+New Monitor.rosemount_tx1_lv Transformer.rosemount_tx1 Terminal=2 Mode=32
+New Monitor.creche_tx1_lv Transformer.creche_tx1 Terminal=2 Mode=32
+New Monitor.science_tx1_lv Transformer.science_tx1 Terminal=2 Mode=32
+New Monitor.science_tx2_lv Transformer.science_tx2 Terminal=2 Mode=32
+New Monitor.student_centre_tx1_lv Transformer.student_centre_tx1 Terminal=2 Mode=32

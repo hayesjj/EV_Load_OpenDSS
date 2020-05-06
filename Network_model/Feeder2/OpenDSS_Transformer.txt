@@ -1,0 +1,4 @@
+New Transformer.campus_east_tx1 phases=3 windings=2 Tap=1 Buses=[campus_east_sub_tx1 campus_east_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[400 400] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.data_centre_tx1 phases=3 windings=2 Tap=1 Buses=[data_centre_sub_tx1 data_centre_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[1600 1600] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.engineering_tx1 phases=3 windings=2 Tap=1 Buses=[engineering_sub_tx1 engineering_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[1600 1600] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.ardmore_tx1 phases=3 windings=2 Tap=1 Buses=[ardmore_sub_tx1 ardmore_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[630 630] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0

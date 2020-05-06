@@ -1,0 +1,4 @@
+New Monitor.campus_east_tx1_lv Transformer.campus_east_tx1 Terminal=2 Mode=32
+New Monitor.data_centre_tx1_lv Transformer.data_centre_tx1 Terminal=2 Mode=32
+New Monitor.engineering_tx1_lv Transformer.engineering_tx1 Terminal=2 Mode=32
+New Monitor.ardmore_tx1_lv Transformer.ardmore_tx1 Terminal=2 Mode=32

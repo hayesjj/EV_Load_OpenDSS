@@ -1,0 +1,5 @@
+New Transformer.quinn_tx1 phases=3 windings=2 Tap=1 Buses=[quinn_sub_tx1 quinn_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[1000 1000] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.roebuck_castle_tx1 phases=3 windings=2 Tap=1 Buses=[roebuck_castle_sub_tx1 roebuck_castle_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[200 200] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.arts_tx1 phases=3 windings=2 Tap=1 Buses=[arts_sub_tx1 arts_sub_tx1_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[630 630] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.arts_tx2 phases=3 windings=2 Tap=1 Buses=[arts_sub_tx2 arts_sub_tx2_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[630 630] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0
+New Transformer.arts_tx3 phases=3 windings=2 Tap=1 Buses=[arts_sub_tx3 arts_sub_tx3_lv] Conns=[Delta Wye] kVs=[10 0.394] kVAs=[630 630] %Rs=[0.5 0.5] rneut=0.1 XHL=3.9 %loadloss=1 %noloadloss=0.18 %imag=0

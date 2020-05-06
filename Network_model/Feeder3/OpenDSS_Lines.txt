@@ -1,0 +1,9 @@
+New Line.mv1_11 Bus1=campus_south_sub Bus2=roebuck_castle_sub phases=3 Linecode=3c_95_sac_xc Length=130 Units=m
+New Line.mv1_17 Bus1=campus_south_sub Bus2=quinn_sub phases=3 Linecode=3c_185_sac_xc Length=325 Units=m
+New Line.mv1_2 Bus1=esb_sub Bus2=campus_south_sub phases=3 Linecode=3c_185_sac_xc Length=700 Units=m
+New Line.mv1_9 Bus1=quinn_sub Bus2=arts_sub phases=3 Linecode=3c_185_sac_xc Length=210 Units=m
+New Line.mv2_15 Bus1=roebuck_castle_sub Bus2=roebuck_castle_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_16 Bus1=quinn_sub Bus2=quinn_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_5 Bus1=arts_sub Bus2=arts_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_6 Bus1=arts_sub Bus2=arts_sub_tx2 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_7 Bus1=arts_sub Bus2=arts_sub_tx3 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m

@@ -1,0 +1,5 @@
+New Monitor.quinn_tx1_lv Transformer.quinn_tx1 Terminal=2 Mode=32
+New Monitor.roebuck_castle_tx1_lv Transformer.roebuck_castle_tx1 Terminal=2 Mode=32
+New Monitor.arts_tx1_lv Transformer.arts_tx1 Terminal=2 Mode=32
+New Monitor.arts_tx2_lv Transformer.arts_tx2 Terminal=2 Mode=32
+New Monitor.arts_tx3_lv Transformer.arts_tx3 Terminal=2 Mode=32

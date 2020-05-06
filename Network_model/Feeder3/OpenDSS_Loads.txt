@@ -1,0 +1,5 @@
+New Load.quinn_tx1_l Phases=3 Bus1=quinn_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=quinn_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.roebuck_castle_tx1_l Phases=3 Bus1=roebuck_castle_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=roebuck_castle_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.arts_tx1_l Phases=3 Bus1=arts_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=arts_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.arts_tx2_l Phases=3 Bus1=arts_sub_tx2_lv kV=0.38 Pf=-0.95 Model=1 Daily=arts_tx2_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.arts_tx3_l Phases=3 Bus1=arts_sub_tx3_lv kV=0.38 Pf=-0.95 Model=1 Daily=arts_tx3_ls Vminpu=0.8 Vmaxpu=1.2

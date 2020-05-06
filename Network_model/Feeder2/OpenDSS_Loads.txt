@@ -1,0 +1,4 @@
+New Load.campus_east_tx1_l Phases=3 Bus1=campus_east_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=campus_east_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.data_centre_tx1_l Phases=3 Bus1=data_centre_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=data_centre_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.engineering_tx1_l Phases=3 Bus1=engineering_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=engineering_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.ardmore_tx1_l Phases=3 Bus1=ardmore_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=ardmore_tx1_ls Vminpu=0.8 Vmaxpu=1.2

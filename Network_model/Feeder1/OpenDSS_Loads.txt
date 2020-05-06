@@ -1,0 +1,11 @@
+New Load.library_tx1_l Phases=3 Bus1=library_sub_tx2_lv kV=0.38 Pf=-0.95 Model=1 Daily=library_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.library_tx2_l Phases=3 Bus1=library_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=library_tx2_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.agri_science_tx1_l Phases=3 Bus1=agri_science_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=agri_science_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.sllsc_tx1_l Phases=3 Bus1=sllsc_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=sllsc_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.sports_centre_tx1_l Phases=3 Bus1=sports_centre_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=sports_centre_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.boiler_house_tx1_l Phases=3 Bus1=boiler_house_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=boiler_house_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.rosemount_tx1_l Phases=3 Bus1=rosemount_unit_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=rosemount_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.creche_tx1_l Phases=3 Bus1=creche_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=creche_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.science_tx1_l Phases=3 Bus1=science_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=science_tx1_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.science_tx2_l Phases=3 Bus1=science_sub_tx2_lv kV=0.38 Pf=-0.95 Model=1 Daily=science_tx2_ls Vminpu=0.8 Vmaxpu=1.2
+New Load.student_centre_tx1_l Phases=3 Bus1=student_centre_sub_tx1_lv kV=0.38 Pf=-0.95 Model=1 Daily=student_centre_tx1_ls Vminpu=0.8 Vmaxpu=1.2

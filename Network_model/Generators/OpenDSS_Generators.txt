@@ -1,0 +1,6 @@
+New LoadShape.boiler_house_chp_ls Npts=96 mInterval=15 csvfile=boiler_house_chp_ls.txt useactual=yes'
+New Generator.boiler_house_chp Bus1=boiler_house_sub_txchp_lv Phases=3 kV=0.38 Pf=-0.98 Model=1 Daily=boiler_house_chp_ls Vminpu=0.8 Vmaxpu=1.2 kVA=2500
+New LoadShape.sllsc_chp_ls Npts=96 mInterval=15 csvfile=sllsc_chp_ls.txt useactual=yes'
+New Generator.sllsc_chp Bus1=sllsc_sub_tx1_lv Phases=3 kV=0.38 Pf=-0.98 Model=1 Daily=sllsc_chp_ls Vminpu=0.8 Vmaxpu=1.2 kVA=75
+New LoadShape.science_east_chp_ls Npts=96 mInterval=15 csvfile=science_east_chp_ls.txt useactual=yes'
+New Generator.science_east_chp Bus1=science_east_sub_tx1_lv Phases=3 kV=0.38 Pf=-0.98 Model=1 Daily=science_east_chp_ls Vminpu=0.8 Vmaxpu=1.2  kVA=650

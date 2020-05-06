@@ -1,0 +1,8 @@
+New Line.mv1_1 Bus1=esb_sub Bus2=campus_east_sub phases=3 Linecode=3c_95_sac_xc Length=641 Units=m
+New Line.mv1_30 Bus1=data_centre_sub Bus2=engineering_sub phases=3 Linecode=3c_95_sac_xc Length=500 Units=m
+New Line.mv1_38 Bus1=campus_east_sub Bus2=data_centre_sub phases=3 Linecode=3c_95_sac_xc Length=200 Units=m
+New Line.mv1_5 Bus1=engineering_sub Bus2=ardmore_sub phases=3 Linecode=3c_95_sac_xc Length=215 Units=m
+New Line.mv2_13 Bus1=engineering_sub Bus2=engineering_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_14 Bus1=ardmore_sub Bus2=ardmore_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_22 Bus1=campus_east_sub Bus2=campus_east_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m
+New Line.mv2_26 Bus1=data_centre_sub Bus2=data_centre_sub_tx1 phases=3 Linecode=3c_95_sac_xc Length=15 Units=m

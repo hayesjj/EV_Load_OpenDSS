@@ -1,0 +1,12 @@
+New Monitor.vet_college_tx1_lv Transformer.vet_college_tx1 Terminal=2 Mode=32
+New Monitor.vet_college_tx2_lv Transformer.vet_college_tx2 Terminal=2 Mode=32
+New Monitor.woodview_tx1_lv Transformer.woodview_tx1 Terminal=2 Mode=32
+New Monitor.charles_institute_tx1_lv Transformer.charles_institute_tx1 Terminal=2 Mode=32
+New Monitor.health_sciences_tx1_lv Transformer.health_sciences_tx1 Terminal=2 Mode=32
+New Monitor.health_sciences_tx2_lv Transformer.health_sciences_tx2 Terminal=2 Mode=32
+New Monitor.science_east_tx1_lv Transformer.science_east_tx1 Terminal=2 Mode=32
+New Monitor.science_hub_tx1_lv Transformer.science_hub_tx1 Terminal=2 Mode=32
+New Monitor.lodge_tx1_lv Transformer.lodge_tx1 Terminal=2 Mode=32
+New Monitor.thornfield_tx1_lv Transformer.thornfield_tx1 Terminal=2 Mode=32
+New Monitor.richview_tx1_lv Transformer.richview_tx1 Terminal=2 Mode=32
+New Monitor.civil_engineering_tx1_lv Transformer.civil_engineering_tx1 Terminal=2 Mode=32
