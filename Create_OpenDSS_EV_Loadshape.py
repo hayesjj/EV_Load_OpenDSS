@@ -3,11 +3,6 @@ UCD MV Network Load Declarations
 
 James Hayes Nov 2019
 
-Citation:
-    When using this model and any of the provided functions and modified network models, please cite our paper which describes them: 
-    V. Rigoni and A. Keane, "A publicly available unbalanced optimal power flow: integrating Pyomo-OpenDSS in Python", 2020 IEEE Power and Energy Society General Meeting, 2020.
-"""
-
 """
 DESCRIPTION
 This script creates the OpenDSS commands for creating the different line types using the UCD_load_data.xlsx file
